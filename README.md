@@ -1,4 +1,6 @@
-# Task
+# Task for a junior DevOps candidate 
+
+## Time: max 1 hour
 
 Create a Bash script named `log_cleanup.sh` that does the following:
 
